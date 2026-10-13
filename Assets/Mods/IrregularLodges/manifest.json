@@ -1,0 +1,9 @@
+{
+  "Name": "Irregular Lodges",
+  "Version": "1.0.0.0",
+  "Id": "Ubermammal.IrregularLodges",
+  "MinimumGameVersion": "1.0.0.0",
+  "Description": "Adds more lodges with more interesting shapes",
+  "RequiredMods": [
+  ]
+}

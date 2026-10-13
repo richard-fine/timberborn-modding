@@ -1,0 +1,9 @@
+{
+  "TemplateCollectionSpec": {
+    "CollectionId": "Buildings.Folktails",
+    "Blueprints#append": [
+      "Buildings/Housing/IrregularLodge1/IrregularLodge1.Folktails.blueprint",
+      "Buildings/Housing/IrregularLodge2/IrregularLodge2.Folktails.blueprint"
+    ]
+  }
+}
