@@ -61,3 +61,4 @@ sysinfo.txt
 # Microsoft Office temporary files
 ~*
 
+.DS_Store
