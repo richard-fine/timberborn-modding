@@ -190,7 +190,7 @@
     "DisplayNameLocKey": "Building.IrregularLodge2.DisplayName",
     "DescriptionLocKey": "Building.IrregularLodge2.Description",
     "FlavorDescriptionLocKey": "",
-    "Icon": "Buildings/Housing/IrregularLodge1/IrregularLodge1Icon"
+    "Icon": "Buildings/Housing/IrregularLodge2/IrregularLodge2Icon"
   },
   "ConstructionSiteProgressVisualizerSpec": {
     "ProgressThresholds": [
